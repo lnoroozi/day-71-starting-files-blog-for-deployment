@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-posts.db
+*.db
+.DS_Store
 
 # C extensions
 *.so
